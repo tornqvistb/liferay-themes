@@ -1,0 +1,28 @@
+{
+	"layouts": [
+		{
+			"columns": [
+				[
+					"Slider.xml"
+				]
+			],
+			"friendlyURL": "/home",
+			"name": "Home",
+			"title": "Home"
+		},
+		{
+			"columns": [
+				[
+					{
+						"portletId": "31"
+					}
+				]
+			],
+			"friendlyURL": "/gallery",
+			"name": "Gallery",
+			"title": "Gallery",
+			"layoutTemplateId": "1_column"
+		}
+	],
+	"layoutTemplateId": "2_columns_iii"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element instance-id="qDMBiXt2" name="image" type="document_library" index-type="">
+		<dynamic-content><![CDATA[[$FILE=slide1.jpg$]]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element instance-id="h6BjH4nE" name="image" type="document_library" index-type="">
+		<dynamic-content><![CDATA[[$FILE=slide2.jpg$]]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element instance-id="ZCVuIdJm" name="image" type="document_library" index-type="">
+		<dynamic-content><![CDATA[[$FILE=slide3.jpg$]]]></dynamic-content>
+	</dynamic-element>
+</root>

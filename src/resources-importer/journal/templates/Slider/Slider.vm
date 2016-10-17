@@ -1,0 +1,20 @@
+<div id="carousel-$reserved-article-id.data">
+    #foreach($item in $image.siblings)
+    	<div class="carousel-item" style="background: url($item.data); width: 640px; height: 360px"></div>
+    #end
+</div>
+
+<script type="text/javascript">
+YUI().use(
+  'aui-carousel',
+  function(Y) {
+    new Y.Carousel(
+      {
+        contentBox: '#carousel-$reserved-article-id.data',
+        height: 360,
+        width: 640
+      }
+    ).render();
+  }
+);
+</script>

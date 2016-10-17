@@ -1,0 +1,78 @@
+/* ---------- Logo ---------- */
+.custom-logo img {
+	padding-right: 63px;
+	border-right: 1px solid #333;
+}
+/* ---------- Header ---------- */
+/* backgrou8nd-color #f5f3ee */ 
+
+/* ---------- Navigation ---------- */
+.aui #navigation .navbar-inner {
+    /*background: #006ebf; stockholm.se*/
+	background: #c40064;
+    border-width: 0;
+    min-height: 49px;
+}
+.aui #navigation .nav li {
+    line-height: 40px;
+}
+
+.aui #navigation .nav li.active>a {
+    /*background-color: #00518c; stockholm.se*/
+	background-color: #fedeed;
+	color: #c40064;
+    background-image:none;
+}
+
+.aui #navigation .nav li.hover>a {
+    /*background-color: #005fa6; stockholm.se*/
+	background-color: #fedeed;
+	color: #c40064;
+    background-image:none;
+}
+
+.aui .dockbar-split .dockbar .navbar-inner .nav>li>a {
+    line-height: 32px;
+}
+
+
+.stocket .dark-orange-box {
+	background: #dd4a2c !important;
+	color: #ffffff;
+	padding: 10px;
+}
+
+.stocket .dark-pink-box {
+	background: #c40064;
+	color: #ffffff;
+	padding: 10px;
+}
+
+.stocket .light-orange-box {
+	background: #ffd7d2;
+	color: #dd4a2c;
+	padding: 10px;
+}
+
+.stocket .light-pink-box {
+	background: #fedeed;
+	color: #c40064;
+	padding: 10px;
+}
+
+
+/*
+.nav-main li.sel a {
+	background:#00518c;
+	color:#fff;
+	text-decoration:none;
+}
+
+.nav-main li a.hover {
+	background:#044779;
+}
+
+#navigation .nav li.active>a {
+    background-color: #00518c;
+}
+*/
